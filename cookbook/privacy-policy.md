@@ -1,5 +1,3 @@
-# Privacy Policy
-
 _Last updated: 2026-05-21_
 
 This is the privacy policy for **Cookbook** (the "app"), published by
