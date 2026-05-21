@@ -1,3 +1,5 @@
+Terms and Conditions
+
 _Last updated: 2026-05-21_
 
 These Terms govern your use of **Cookbook** (the "app"), published by
