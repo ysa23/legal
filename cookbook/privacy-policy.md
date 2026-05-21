@@ -1,4 +1,7 @@
-Privacy Policy
+---
+layout: page
+title: Privacy Policy
+---
 
 _Last updated: 2026-05-21_
 

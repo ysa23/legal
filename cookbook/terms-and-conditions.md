@@ -1,4 +1,7 @@
-Terms and Conditions
+---
+layout: page
+title: Terms and Conditions
+---
 
 _Last updated: 2026-05-21_
 
