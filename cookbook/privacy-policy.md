@@ -43,4 +43,4 @@ we'll notify you in the app before the change takes effect.
 
 ## Contact
 
-`cookbook@house-of-code.com`
+[cookbook@house-of-code.com](mailto:cookbook@house-of-code.com)

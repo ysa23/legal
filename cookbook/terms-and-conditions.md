@@ -55,4 +55,4 @@ These Terms are governed by the laws of Israel.
 
 ## Contact
 
-`cookbook@house-of-code.com`
+[cookbook@house-of-code.com](mailto:cookbook@house-of-code.com)
